@@ -1,7 +1,7 @@
 # meomeow
 first commit  <br>
 <h1>hy vikas here i always thought i could never code but now i know i will be a master in it </h1>
-<img src="https://photos.app.goo.gl/K89wBZSJ8iixKsDM6" width=200px height=200px>   
+<img src="https://static.scientificamerican.com/sciam/cache/file/ED3AE3E0-1BD7-469F-9920E3A3EBECA54B_source.jpg?w=590&h=800&6A41F2EA-099C-49D9-A8883A7105CEEC43" width=200px height=200px>   
 this is me i know a little inocent haha.
 <h2>about me </h2>
 <ul>
